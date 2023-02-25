@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Daksh Godara,
+- 👋 Hi, I’m Daksh Godara.
 - 👀 I’m interested in technology, mathematics, finance, and business.
 
 <!---
