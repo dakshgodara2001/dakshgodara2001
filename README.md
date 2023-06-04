@@ -1,5 +1,6 @@
 <h2 align="center">👋 Hi, I’m Daksh Godara</h2>
-- 👀 I’m interested in technology, mathematics, finance, and business.
+
+- 👀 I’m interested in technology, mathematics, finance and business.
 
 - 📫 How to reach me **godaradaksh2001@gmail.com**
 
