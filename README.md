@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daksh Godara</h2>
-<h3 align="center">A passionate software developer from India</h3>
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://dakshgodara2001.github.io)
+<h3 align="left">A passionate software developer from India</h3>
 
 - 📫 How to reach me **godaradaksh2001@gmail.com**
 
