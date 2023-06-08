@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **godaradaksh2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FNDsm9PmH9ucn9b95k4_2Y6_RvAWt8kd/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1FNDsm9PmH9ucn9b95k4_2Y6_RvAWt8kd/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
