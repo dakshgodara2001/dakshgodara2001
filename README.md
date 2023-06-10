@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Daksh Godara</h2>
-<h3 align="left">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 
 <h3 align="center">Connect with me:</h3>
