@@ -1,13 +1,59 @@
-<h2 align="center">Hi 👋, I'm Daksh Godara</h2>
-<h3 align="center">A passionate software developer from India</h3>
+<h2 align="left">Hi 👋! My name is Daksh</h2>
 
+###
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshgodara2001&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="dakshgodara2001" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshgodara2001&show_icons=true&theme=cobalt&locale=en" alt="dakshgodara2001" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshgodara2001&theme=dark" alt="dakshgodara2001" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshgodara2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshgodara2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
+
+<img align="right" height="149" src="https://i.gifer.com/14B0.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="godaradaksh2001@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/daksh-godara-2001/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="t.me/dksh2001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dakshgodara2001/dakshgodara2001/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!---
 dakshgodara2001/dakshgodara2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
