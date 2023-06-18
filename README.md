@@ -43,11 +43,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dakshgodara2001/dakshgodara2001/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!---
 dakshgodara2001/dakshgodara2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
