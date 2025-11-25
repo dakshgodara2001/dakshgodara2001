@@ -4,7 +4,7 @@
 
 <p align="left">
 Building fintech systems that scale.  <br>
-I work at the intersection of product, engineering, and data — shipping real-world financial experiences used by millions.
+I work at the intersection of product, engineering and data --> shipping real world financial experiences used by millions.
 </p>
 
 ### 🌐 Connect
