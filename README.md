@@ -1,10 +1,3 @@
-<h2 align="left">Hi 👋 I'm Daksh</h2>
-
-###
-
-<p align="left">
-I work at the intersection of product, engineering and data --> shipping real world financial experiences used by millions.
-</p>
 
 ### 🌐 Connect
 
