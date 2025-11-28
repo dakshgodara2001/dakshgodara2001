@@ -1,4 +1,3 @@
-
 <div align="left">
   <a href="mailto:godaradaksh2001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -8,10 +7,12 @@
   </a>
   <a href="https://msng.link/o?dksh2001=tg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
- <a href="https://x.com/dksh2001" target="_blank">
+  </a>
+  <a href="https://x.com/dksh2001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
   </a>
 </div>
+
 
 
 
