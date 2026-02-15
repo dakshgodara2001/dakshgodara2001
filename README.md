@@ -1,5 +1,5 @@
 Building fintech and AI products impacting 4M+ users. <br>
-Focus on insurance tech, wealth management and LLM-powered experiences.
+Focus on insurance tech, wealth management and LLM powered experiences.
 
 
 ## Connect
