@@ -4,4 +4,4 @@ Focus on insurance tech, wealth management and AI powered products.
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/daksh-godara-2001) • [Portfolio](https://dakshgodara2001.github.io) • [Email](mailto:godaradaksh2001@gmail.com)
+[Portfolio](https://dakshgodara2001.github.io) • [LinkedIn](https://linkedin.com/in/daksh-godara-2001) • [Email](mailto:godaradaksh2001@gmail.com)
