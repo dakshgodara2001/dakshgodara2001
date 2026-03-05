@@ -1,6 +1,4 @@
 Building fintech and AI products impacting 4M+ users. <br>
-Focus on insurance tech, wealth management and AI powered products.
-
 
 ## Connect
 
